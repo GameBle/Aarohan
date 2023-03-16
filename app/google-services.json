@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128842832449",
+    "project_id": "aarohan-44ba8",
+    "storage_bucket": "aarohan-44ba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128842832449:android:328949c4b0673c6b2b04c0",
+        "android_client_info": {
+          "package_name": "com.asr.aarohan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128842832449-6mhmv9k6ebb02igdcfecjubsk8l2jt0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwNrW5GpGvzGrGefSd5HlKIxzONiezbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128842832449-6mhmv9k6ebb02igdcfecjubsk8l2jt0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
